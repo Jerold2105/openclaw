@@ -16,18 +16,15 @@ def next_job_id():
     ids = [int(m.group(1)) for m in re.finditer(r"^## Job (\d+)", text, re.M)]
     return (max(ids) + 1) if ids else 1
 
-if __name__ == "__main__":
+def main(argv=None):
     p = argparse.ArgumentParser()
     p.add_argument("--company", required=True)
     p.add_argument("--role", required=True)
     p.add_argument("--url", required=True)
-    args = p.parse_args()
+    args = p.parse_args(argv)
 
-    # Step 1: Add job
     run([
-        sys.executable,
-        "tools/openclaw.py",
-        "add",
+        sys.executable, "tools/openclaw.py", "add",
         "--company", args.company,
         "--role", args.role,
         "--link", args.url
@@ -36,21 +33,11 @@ if __name__ == "__main__":
     job_id = next_job_id() - 1
     print(f"\nDetected Job ID: {job_id}")
 
-    # Step 2: Scrape JD
-    run([
-        sys.executable,
-        "tools/scrape_jd.py",
-        "--job", str(job_id),
-        "--url", args.url
-    ])
+    run([sys.executable, "tools/scrape_jd.py", "--job", str(job_id), "--url", args.url])
 
-    # Step 3: Run full pipeline
-    run([
-        sys.executable,
-        "tools/pipeline.py",
-        "--job", str(job_id),
-        "--company", args.company,
-        "--role", args.role
-    ])
+    run([sys.executable, "tools/pipeline.py", "--job", str(job_id), "--company", args.company, "--role", args.role])
 
     print("\nFULL AUTO PIPELINE COMPLETE — READY_FOR_REVIEW")
+
+if __name__ == "__main__":
+    main()

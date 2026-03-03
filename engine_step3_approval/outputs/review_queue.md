@@ -107,3 +107,25 @@ Notes:
 
 ---
 
+## Job 9
+Company: CompanyName
+Role: Cybersecurity Analyst
+Job Link: https://PASTE_REAL_JOB_LINK
+Status: JD_NOT_ADDED
+Decision: PENDING
+
+Resume PDF:
+Cover Letter:
+Autofill Answers:
+
+Missing Info:
+
+Actions:
+- APPROVE
+- REVISE
+- REJECT
+
+Notes:
+
+---
+

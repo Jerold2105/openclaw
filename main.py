@@ -1,4 +1,4 @@
-from tools.auto_run import main as auto_main
+from tools.auto_run import main
 
 if __name__ == "__main__":
-    auto_main()
+    main()
