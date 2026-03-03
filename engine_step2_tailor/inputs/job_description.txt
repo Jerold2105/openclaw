@@ -1,0 +1,55 @@
+ About the job
+
+Description
+
+Junior Security Engineer plays a critical role in completing our mission every day by ensuring that Pampered Chef maintains and deploys new software/systems in a secure manner to reduce information security risks. Reporting directly to NOC/SOC Manager, the Junior Security Engineer participates in the selection and deployment of world-class cybersecurity tools. The Junior Security Engineer works alongside several teams throughout Information Technology regarding cybersecurity, establishing a partnership that drives results towards reducing risk and adherence to policies and increasing cybersecurity awareness.
+
+What You'll Do
+
+    Vulnerability Management – Play a key role in the deployment and assessment of vulnerability scanning and detection technologies. Evaluate the coverage, accuracy and efficacy of the vulnerability scanning technologies meet our requirements. Collaborate with system and application owners to prioritize and remediate vulnerabilities. 
+    Training & Awareness – Work within training & awareness tools to build, assign and report on security-focused training modules to workers across the business to raise awareness and develop a security-educated work environment.
+    Endpoint Security - Works closely with the Infrastructure and Operations teams to ensure proper configurations are implemented and tested across endpoint security tools.
+    Vendor Management – Perform risk-based reviews of 3rd parties, current and potential, where risk is based on security practices in place, data management and data privacy practices.
+    Internal Audits – Conduct internal audits across access management, account management, privileged access, and password compliance, among several others. 
+    Monitoring – Evaluation of the current monitoring coverage, make recommendations to close any monitoring gaps. Tune monitoring tools as systems and processes evolve. Provide operational coverage and response for alerts.
+     Incident Response – Perform investigative tasks in response to alerts. Look for indicators of compromise, preserve data and collaborate with members of the security team throughout the incident response process. 
+
+What Success Looks Like
+
+    Delivery on information security roadmap and projects
+    Reduction of the number of open vulnerabilities and issues without reducing scanning coverage.
+    Build a mature auditing and reporting program.
+    Monitoring the maturity of the security suite of tools across our hybrid ecosystem, on-premises and in the cloud. 
+
+Requirements
+
+What we're looking for
+
+    Bachelor's degree in Computer Science or Information Security
+    1-2 years of experience in technology and development, with a specialty in security in complex environments, focusing on protecting intellectual property and sensitive data.
+    Experience within multiple programs listed in the team’s responsibilities
+    Strong knowledge of Windows and Linux operating systems
+    Experience creating and maintaining security policies and standards
+    Working knowledge of security best practices and standards such as ISO27001, ISO27002, PCI-DSS, NIST
+    Ability to effectively manage multiple concurrent priorities and meet deadlines within a dynamic, fast-paced and challenging environment
+    Strong interpersonal and communication skills
+    Demonstrate the ability to articulate complex technical scenarios to a non-technical audience clearly
+    Strong work ethic and detail-oriented mindset
+    Preferred Data Privacy Awareness (CCPA, GCPR) 
+
+What We're Offering
+
+Compensation, benefits, and logistics
+
+The anticipated salary range for this position starts at $55,000 annually, depending on experience and qualifications. This role is eligible for a performance-based bonus based on individual and company performance.
+
+This Position Includes a Comprehensive Benefits Package, Which Includes
+
+    Medical, dental, and vision insurance 
+    Company-paid life insurance with additional voluntary coverage options 
+    Disability insurance 
+    Additional voluntary benefits 
+    401k match 
+    Flex PTO 
+    Paid Parental Leave 
+    30%+ discount on Pampered Chef Products and product giveaways

@@ -1,0 +1,48 @@
+{
+  "job_id": 1,
+  "sources": {
+    "truth_profile": "C:\\Users\\jerol\\Desktop\\ai agent\\job-agent-truth\\engine_step1_truth\\truth_profile.json"
+  },
+  "claims": [
+    {
+      "claim": "Identified, validated, and documented 50+ high-severity vulnerabilities prior to production release.",
+      "evidence_path": "experience.achievements",
+      "source": "truth_profile.json"
+    },
+    {
+      "claim": "Collaborated with DevSecOps, engineering, and firmware teams to triage findings and reduce resolution cycles by approximately 15%.",
+      "evidence_path": "experience.achievements",
+      "source": "truth_profile.json"
+    },
+    {
+      "claim": "Conducted security-focused testing aligned with secure SDLC practices.",
+      "evidence_path": "experience.achievements",
+      "source": "truth_profile.json"
+    },
+    {
+      "claim": "Performed root-cause analysis on recurring security defects to improve test coverage and preventive controls.",
+      "evidence_path": "experience.achievements",
+      "source": "truth_profile.json"
+    },
+    {
+      "claim": "PhishGuard AI: Built using Python-based NLP to detect phishing URLs and malicious content in real time.",
+      "evidence_path": "projects.details",
+      "source": "truth_profile.json"
+    },
+    {
+      "claim": "PhishGuard AI: Evaluated 5,000+ benign and malicious URLs to identify phishing patterns.",
+      "evidence_path": "projects.details",
+      "source": "truth_profile.json"
+    },
+    {
+      "claim": "PQC-Sim: Built a Python-based simulator to benchmark post-quantum algorithms against RSA.",
+      "evidence_path": "projects.details",
+      "source": "truth_profile.json"
+    },
+    {
+      "claim": "PQC-Sim: Analyzed latency, performance, and computational overhead.",
+      "evidence_path": "projects.details",
+      "source": "truth_profile.json"
+    }
+  ]
+}

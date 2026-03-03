@@ -1,0 +1,101 @@
+{
+  "name": "Jerold Anbarasan",
+  "location": "St. Louis, MO",
+  "phone": "314-397-1561",
+  "email": "jeroldanbarasan@gmail.com",
+  "linkedin": "linkedin.com/in/jerold-anbarasan/",
+  "website": "jeroldanbarasan.com",
+  "github": "https://github.com/Jerold2105",
+
+  "education": [
+    {
+      "degree": "Master of Science in Cybersecurity (Artificial Intelligence Emphasis)",
+      "institution": "Webster University",
+      "location": "St. Louis, MO",
+      "expected_graduation": "May 2026"
+    },
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "Pondicherry University",
+      "graduation": "May 2021"
+    }
+  ],
+
+  "certifications": [
+    "Certified Ethical Hacker (CEH) – EC-Council",
+    "Google Cybersecurity Professional Certificate"
+  ],
+
+  "experience": [
+    {
+      "company": "Amazon Development Center",
+      "role": "Associate Quality Assurance",
+      "location": "Chennai, India",
+      "start": "July 2022",
+      "end": "June 2023",
+      "achievements": [
+        "Identified, validated, and documented 50+ high-severity vulnerabilities prior to production release.",
+        "Collaborated with DevSecOps, engineering, and firmware teams to triage findings and reduce resolution cycles by approximately 15%.",
+        "Conducted security-focused testing aligned with secure SDLC practices.",
+        "Performed root-cause analysis on recurring security defects to improve test coverage and preventive controls."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "PhishGuard AI",
+      "description": "AI-based phishing detection Chrome extension",
+      "details": [
+        "Built using Python-based NLP to detect phishing URLs and malicious content in real time.",
+        "Evaluated 5,000+ benign and malicious URLs to identify phishing patterns."
+      ]
+    },
+    {
+      "name": "PQC-Sim",
+      "description": "Post-Quantum Cryptography Simulator",
+      "details": [
+        "Built a Python-based simulator to benchmark post-quantum algorithms against RSA.",
+        "Analyzed latency, performance, and computational overhead."
+      ]
+    }
+  ],
+
+  "skills": {
+    "cybersecurity": [
+      "SOC Tier 1 Operations",
+      "Incident Response",
+      "Threat Detection",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "OWASP Top 10",
+      "Secure SDLC",
+      "MITRE ATT&CK"
+    ],
+    "tools": [
+      "Wireshark",
+      "Nmap",
+      "Burp Suite",
+      "Metasploit",
+      "Nessus",
+      "Splunk",
+      "ELK Stack"
+    ],
+    "systems": [
+      "Linux",
+      "Windows",
+      "VirtualBox"
+    ],
+    "programming": [
+      "Python",
+      "Bash",
+      "SQL"
+    ],
+    "cryptography": [
+      "AES",
+      "RSA",
+      "ECC",
+      "Post-Quantum Concepts"
+    ]
+  }
+}
